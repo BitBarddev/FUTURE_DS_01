@@ -34,5 +34,8 @@ This project offers end-to-end insight into business sales performance, focusing
 🙌 Acknowledgment
 This project was completed as part of my internship task under the **Future Interns Fellowship Program (June–July 2025)**. It reflects a hands-on application of data analytics concepts in a real-world business context.
 
+Dashboard:
 ![Dashboard](https://github.com/user-attachments/assets/38884e00-447a-41b5-b26a-39be275b29b5)
+
+Model View:
 ![Model View](https://github.com/user-attachments/assets/146a2f08-f27f-48aa-9cbb-e384688bcd70)
